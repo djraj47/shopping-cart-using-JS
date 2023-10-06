@@ -1,2 +1,2 @@
-# shopping-cart-using-JS
-in this project we used javasceipt for managing the cart .
+# Shopping-cart-using-JS
+In this project we used javasceipt for managing the cart .
